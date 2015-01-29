@@ -1,9 +1,17 @@
 { 
-	"author": "Brad Dayley", 
+	"author": "Jason", 
 	"name": "censorify", 
 	"version": "0.1.1", 
 	"description": "Censors words out of text", 
-	"main": "censortext", 
+	"main": "censortext",
+	"repository": { 
+		"type": "git", 
+		"url": "https://github.com/jccbcc/censorify" 
+	}, 
+	   "keywords": [ 
+	   "censor", 
+	   "words" 
+	],
 	"dependencies": {}, 
 	"engines": { 
 		"node": "*" 
